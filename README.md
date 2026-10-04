@@ -14,11 +14,11 @@ https://app.cirkitdesigner.com/project/e434497b-d865-450d-aba7-a3a18249198a
 | Name                       | Quantity         | Total Cost in INR | Total Cost in USD |  Link                          |
 |:---------------------------|:----------------:|------------------:|------------------:|:-------------------------------|
 | ESP8266                    |                1 |              ₹360 |             $3.75 | [link](https://www.amazon.in/Robocraze-NodeMcu-ESP8266-CH340-Development/dp/B093Q2XCG8/ref=sr_1_2_sspa?sr=8-2-spons&aref=n94D0WPQ8K&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)    | 
-| IR reccciver              |               1 |              ₹60 |             $1.06 | Local shop   |
-| led light       |                2 |              ₹2 |             $2.61 | Local Shop   | 
-| Buzzer    |                1 |              ₹49 |             $0.68 | [link](https://www.amazon.in/PIECE-Buzzer-Small-Enclosed-Project/dp/B0GQQXYGYN/ref=sr_1_6?sr=8-6)  |    |
+| IR reccciver              |               1 |              ₹60 |             $0.63 | Local shop   |
+| led light       |                2 |              ₹2 |             $0.021 | Local Shop   | 
+| Buzzer    |                1 |              ₹49 |             $0.51 | [link](https://www.amazon.in/PIECE-Buzzer-Small-Enclosed-Project/dp/B0GQQXYGYN/ref=sr_1_6?sr=8-6)  |    |
 | Sound Sensor |                1 |              ₹60  |             $0.63| [link](https://www.amazon.in/ICSTORE-SN74HC595N-74HC595-parallel-register/dp/B0D8ZT5ZHC/ref=sr_1_1?sr=8-1)    |
-| Ultra Sonic Sensor              |                1 |              ₹89 |             $0.72 | [link](https://www.amazon.in/HC-SR04-Ultrasonic-Sensor-Module-Measurement/dp/B0HBKQ6N4H/ref=sr_1_6?sr=8-6)    |
+| Ultra Sonic Sensor              |                1 |              ₹89 |             $0.92| [link](https://www.amazon.in/HC-SR04-Ultrasonic-Sensor-Module-Measurement/dp/B0HBKQ6N4H/ref=sr_1_6?sr=8-6)    |
 | 1K RESISTER                |               12 |              ₹20 |             $0.21 | [link](https://www.amazon.in/Electronic-Spices-Tolerance-Through-Resistors/dp/B0BF4ZY1KV/ref=sr_1_7?sr=8-7)    |
 | 3.7V lITHIUM BATERRY       |                3 |              ₹350 |             $3.65 | [link](https://www.amazon.in/2000mAh-Rechargeable-Battery-Lithium-Universal/dp/B0H31DCNBH/ref=sr_1_7?sr=8-7)    |
 | 3.7V TO 3.3V CONVERTER     |                1 |              ₹235 |             $2.45 | [link](https://www.amazon.in/Pro3D-DC-DC-Boost-Converter-Module/dp/B0CV9H28MV/ref=sr_1_3?sr=8-3)    |
