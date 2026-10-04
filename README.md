@@ -24,5 +24,7 @@ https://app.cirkitdesigner.com/project/e434497b-d865-450d-aba7-a3a18249198a
 | 3.7V TO 3.3V CONVERTER     |                1 |              ₹235 |             $2.45 | [link](https://www.amazon.in/Pro3D-DC-DC-Boost-Converter-Module/dp/B0CV9H28MV/ref=sr_1_3?sr=8-3)    |
 | CHARGING MODULE            |                1 |              ₹37 |             $0.39 | [link](https://www.amazon.in/SP-Overcharge-Over-Current-Protection-Module/dp/B0H4GVXDQH/ref=sr_1_6?sr=8-6)    |
 | BREAD BOARD                |                1 |              ₹249 |             $2.60 | [link](https://www.amazon.in/VIREXON-Breadboard-Compatible-Electronics-Beginners/dp/B0H93XL1NT/ref=sr_1_5_sspa?sr=8-5-spons&aref=SK516vqIt2&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) 
-| **Total** | |**₹2047** |**$21.35** |  | ||
+| **Total** | |**₹1511** |**$15.69** |  | ||
+
+MIT
 
