@@ -26,5 +26,7 @@ https://app.cirkitdesigner.com/project/e434497b-d865-450d-aba7-a3a18249198a
 | BREAD BOARD                |                1 |              ₹249 |             $2.60 | [link](https://www.amazon.in/VIREXON-Breadboard-Compatible-Electronics-Beginners/dp/B0H93XL1NT/ref=sr_1_5_sspa?sr=8-5-spons&aref=SK516vqIt2&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) 
 | **Total** | |**₹1511** |**$15.69** |  | ||
 
-MIT
+# MIT LICENSE:-
+
+https://github.com/adrishanik/Smart-Security-System/blob/main/LICENSE
 
