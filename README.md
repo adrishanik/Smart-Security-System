@@ -72,6 +72,7 @@ https://app.cirkitdesigner.com/project/e434497b-d865-450d-aba7-a3a18249198a
 | 3.7V lITHIUM BATERRY       |                3 |              ₹350 |             $3.65 | [link](https://www.amazon.in/2000mAh-Rechargeable-Battery-Lithium-Universal/dp/B0H31DCNBH/ref=sr_1_7?sr=8-7)    |
 | 3.7V TO 3.3V CONVERTER     |                1 |              ₹235 |             $2.45 | [link](https://www.amazon.in/Pro3D-DC-DC-Boost-Converter-Module/dp/B0CV9H28MV/ref=sr_1_3?sr=8-3)    |
 | CHARGING MODULE            |                1 |              ₹37 |             $0.39 | [link](https://www.amazon.in/SP-Overcharge-Over-Current-Protection-Module/dp/B0H4GVXDQH/ref=sr_1_6?sr=8-6) |
+| **Total**                  |                   |                  **₹1262**|                  **$13.1**|       |
  
 
 
