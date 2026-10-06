@@ -1,4 +1,7 @@
 # Smart-Security-System:-
+
+<img width="1280" height="960" alt="WhatsApp Image 2026-10-06 at 8 54 25 PM" src="https://github.com/user-attachments/assets/95a29a22-f48e-4907-a430-876071b0bc7a" />
+
 ## About my project
 A Smart Security System is an IoT-enabled solution that integrates sensors, microcontrollers, and cloud connectivity to provide automated alerts, and remote control for residential or commercial properties.  Unlike traditional wired systems, these projects leverage wireless architectures to offer cost-effective, scalable, and user-friendly security management. 
 ## Why it exists
